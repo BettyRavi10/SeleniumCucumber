@@ -1,0 +1,181 @@
+2023-03-18 18:56:27,798 - nopcommerce - INFO - ----Launch browser----
+2023-03-18 18:56:29,651 - nopcommerce - INFO - ----Launch URL----
+2023-03-18 18:56:30,466 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-18 18:56:30,680 - nopcommerce - INFO - ----Start login----
+2023-03-18 18:56:42,944 - nopcommerce - INFO - ----Add  Customer----
+2023-03-18 18:56:42,944 - nopcommerce - INFO - ----Add  Customer details----
+2023-03-18 18:56:49,561 - nopcommerce - INFO - ---- Customer added successfully----
+2023-03-18 18:56:53,540 - nopcommerce - INFO - ----Launch browser----
+2023-03-18 18:56:54,701 - nopcommerce - INFO - ----Launch URL----
+2023-03-18 18:56:55,458 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-18 18:56:55,655 - nopcommerce - INFO - ----Start login----
+2023-03-18 18:57:11,099 - nopcommerce - INFO - ----Launch browser----
+2023-03-18 18:57:11,764 - nopcommerce - INFO - ----Launch URL----
+2023-03-18 18:57:12,508 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-18 18:57:12,708 - nopcommerce - INFO - ----Start login----
+2023-03-18 18:57:20,876 - nopcommerce - INFO - ----Search  Customer----
+2023-03-18 18:57:27,960 - nopcommerce - INFO - ----Launch browser----
+2023-03-18 18:57:28,611 - nopcommerce - INFO - ----Launch URL----
+2023-03-18 18:57:29,120 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-18 18:57:29,311 - nopcommerce - INFO - ----Start login----
+2023-03-18 18:57:30,996 - nopcommerce - INFO - ----Login  Succesful----
+2023-03-18 18:57:30,997 - nopcommerce - INFO - ----Logout  App----
+2023-03-18 18:57:33,096 - nopcommerce - INFO - ----Title correct----
+2023-03-18 18:57:33,795 - nopcommerce - INFO - ----Launch browser----
+2023-03-18 18:57:34,445 - nopcommerce - INFO - ----Launch URL----
+2023-03-18 18:57:35,190 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-18 18:57:35,386 - nopcommerce - INFO - ----Start login----
+2023-03-18 18:57:36,817 - nopcommerce - INFO - ----Login  Succesful----
+2023-03-18 18:57:36,818 - nopcommerce - INFO - ----Logout  App----
+2023-03-18 18:57:38,934 - nopcommerce - INFO - ----Title correct----
+2023-03-18 18:57:39,638 - nopcommerce - INFO - ----Launch browser----
+2023-03-18 18:57:40,279 - nopcommerce - INFO - ----Launch URL----
+2023-03-18 18:57:41,038 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-18 18:57:41,242 - nopcommerce - INFO - ----Start login----
+2023-03-18 19:04:56,602 - nopcommerce - INFO - ----Launch browser----
+2023-03-18 19:04:58,017 - nopcommerce - INFO - ----Launch URL----
+2023-03-18 19:04:58,839 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-18 19:04:59,040 - nopcommerce - INFO - ----Start login----
+2023-03-18 19:05:11,115 - nopcommerce - INFO - ----Add  Customer----
+2023-03-18 19:05:11,115 - nopcommerce - INFO - ----Add  Customer details----
+2023-03-18 19:05:17,762 - nopcommerce - INFO - ---- Customer added successfully----
+2023-03-18 19:05:21,701 - nopcommerce - INFO - ----Launch browser----
+2023-03-18 19:05:22,348 - nopcommerce - INFO - ----Launch URL----
+2023-03-18 19:05:23,141 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-18 19:05:23,340 - nopcommerce - INFO - ----Start login----
+2023-03-18 19:05:38,722 - nopcommerce - INFO - ----Launch browser----
+2023-03-18 19:05:39,372 - nopcommerce - INFO - ----Launch URL----
+2023-03-18 19:05:40,197 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-18 19:05:40,383 - nopcommerce - INFO - ----Start login----
+2023-03-18 19:05:48,789 - nopcommerce - INFO - ----Search  Customer----
+2023-03-18 19:05:55,924 - nopcommerce - INFO - ----Launch browser----
+2023-03-18 19:05:56,569 - nopcommerce - INFO - ----Launch URL----
+2023-03-18 19:05:57,080 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-18 19:05:57,276 - nopcommerce - INFO - ----Start login----
+2023-03-18 19:05:58,525 - nopcommerce - INFO - ----Login  Succesful----
+2023-03-18 19:05:58,526 - nopcommerce - INFO - ----Logout  App----
+2023-03-18 19:06:00,634 - nopcommerce - INFO - ----Title correct----
+2023-03-18 19:06:01,317 - nopcommerce - INFO - ----Launch browser----
+2023-03-18 19:06:01,972 - nopcommerce - INFO - ----Launch URL----
+2023-03-18 19:06:02,726 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-18 19:06:02,949 - nopcommerce - INFO - ----Start login----
+2023-03-18 19:06:04,432 - nopcommerce - INFO - ----Login  Succesful----
+2023-03-18 19:06:04,433 - nopcommerce - INFO - ----Logout  App----
+2023-03-18 19:06:06,563 - nopcommerce - INFO - ----Title correct----
+2023-03-18 19:06:07,268 - nopcommerce - INFO - ----Launch browser----
+2023-03-18 19:06:07,933 - nopcommerce - INFO - ----Launch URL----
+2023-03-18 19:06:08,450 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-18 19:06:08,648 - nopcommerce - INFO - ----Start login----
+2023-03-21 19:39:49,978 - nopcommerce - INFO - ----Launch browser----
+2023-03-21 19:39:51,786 - nopcommerce - INFO - ----Launch URL----
+2023-03-21 19:39:52,741 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-21 19:39:52,952 - nopcommerce - INFO - ----Start login----
+2023-03-21 19:40:06,199 - nopcommerce - INFO - ----Add  Customer----
+2023-03-21 19:40:06,200 - nopcommerce - INFO - ----Add  Customer details----
+2023-03-21 19:40:12,800 - nopcommerce - INFO - ---- Customer added successfully----
+2023-03-21 19:40:16,704 - nopcommerce - INFO - ----Launch browser----
+2023-03-21 19:40:17,880 - nopcommerce - INFO - ----Launch URL----
+2023-03-21 19:40:18,655 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-21 19:40:18,869 - nopcommerce - INFO - ----Start login----
+2023-03-21 19:40:34,796 - nopcommerce - INFO - ----Launch browser----
+2023-03-21 19:40:35,508 - nopcommerce - INFO - ----Launch URL----
+2023-03-21 19:40:36,704 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-21 19:40:36,891 - nopcommerce - INFO - ----Start login----
+2023-03-21 19:40:45,220 - nopcommerce - INFO - ----Search  Customer----
+2023-03-21 19:40:52,415 - nopcommerce - INFO - ----Launch browser----
+2023-03-21 19:40:53,064 - nopcommerce - INFO - ----Launch URL----
+2023-03-21 19:40:53,807 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-21 19:40:54,005 - nopcommerce - INFO - ----Start login----
+2023-03-21 19:40:56,639 - nopcommerce - INFO - ----Login  Succesful----
+2023-03-21 19:40:56,640 - nopcommerce - INFO - ----Logout  App----
+2023-03-21 19:40:58,800 - nopcommerce - INFO - ----Title correct----
+2023-03-21 19:40:59,489 - nopcommerce - INFO - ----Launch browser----
+2023-03-21 19:41:00,141 - nopcommerce - INFO - ----Launch URL----
+2023-03-21 19:41:00,669 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-21 19:41:00,869 - nopcommerce - INFO - ----Start login----
+2023-03-21 19:41:02,504 - nopcommerce - INFO - ----Login  Succesful----
+2023-03-21 19:41:02,505 - nopcommerce - INFO - ----Logout  App----
+2023-03-21 19:41:04,639 - nopcommerce - INFO - ----Title correct----
+2023-03-21 19:41:05,328 - nopcommerce - INFO - ----Launch browser----
+2023-03-21 19:41:05,964 - nopcommerce - INFO - ----Launch URL----
+2023-03-21 19:41:06,710 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-21 19:41:06,920 - nopcommerce - INFO - ----Start login----
+2023-03-21 20:20:04,354 - nopcommerce - INFO - ----Launch browser----
+2023-03-21 20:20:04,380 - nopcommerce - INFO - ----Launch URL----
+2023-03-21 20:20:05,560 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-21 20:20:05,762 - nopcommerce - INFO - ----Start login----
+2023-03-21 20:20:17,876 - nopcommerce - INFO - ----Add  Customer----
+2023-03-21 20:20:17,876 - nopcommerce - INFO - ----Add  Customer details----
+2023-03-21 20:20:24,529 - nopcommerce - INFO - ---- Customer added successfully----
+2023-03-21 20:20:29,715 - nopcommerce - INFO - ----Launch browser----
+2023-03-21 20:20:29,717 - nopcommerce - INFO - ----Launch URL----
+2023-03-21 20:20:30,288 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-21 20:20:30,482 - nopcommerce - INFO - ----Start login----
+2023-03-21 20:20:49,846 - nopcommerce - INFO - ----Launch browser----
+2023-03-21 20:20:49,848 - nopcommerce - INFO - ----Launch URL----
+2023-03-21 20:20:50,593 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-21 20:20:50,809 - nopcommerce - INFO - ----Start login----
+2023-03-21 20:20:59,090 - nopcommerce - INFO - ----Search  Customer----
+2023-03-21 20:21:06,992 - nopcommerce - INFO - ----Launch browser----
+2023-03-21 20:21:06,993 - nopcommerce - INFO - ----Launch URL----
+2023-03-21 20:21:07,734 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-21 20:21:07,973 - nopcommerce - INFO - ----Start login----
+2023-03-21 20:21:09,566 - nopcommerce - INFO - ----Login  Succesful----
+2023-03-21 20:21:09,567 - nopcommerce - INFO - ----Logout  App----
+2023-03-21 20:21:11,672 - nopcommerce - INFO - ----Title correct----
+2023-03-21 20:21:13,062 - nopcommerce - INFO - ----Launch browser----
+2023-03-21 20:21:13,064 - nopcommerce - INFO - ----Launch URL----
+2023-03-21 20:21:13,821 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-21 20:21:14,041 - nopcommerce - INFO - ----Start login----
+2023-03-21 20:21:15,613 - nopcommerce - INFO - ----Login  Succesful----
+2023-03-21 20:21:15,614 - nopcommerce - INFO - ----Logout  App----
+2023-03-21 20:21:17,752 - nopcommerce - INFO - ----Title correct----
+2023-03-21 20:21:19,131 - nopcommerce - INFO - ----Launch browser----
+2023-03-21 20:21:19,133 - nopcommerce - INFO - ----Launch URL----
+2023-03-21 20:21:19,705 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-21 20:21:19,905 - nopcommerce - INFO - ----Start login----
+2023-03-21 20:22:30,432 - nopcommerce - INFO - ----Launch browser----
+2023-03-21 20:22:30,480 - nopcommerce - INFO - ----Launch URL----
+2023-03-21 20:22:31,476 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-21 20:22:31,631 - nopcommerce - INFO - ----Start login----
+2023-03-21 20:22:49,760 - nopcommerce - INFO - ----Launch browser----
+2023-03-21 20:22:49,761 - nopcommerce - INFO - ----Launch URL----
+2023-03-21 20:22:50,856 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-21 20:22:51,031 - nopcommerce - INFO - ----Start login----
+2023-03-21 20:22:58,792 - nopcommerce - INFO - ----Search  Customer----
+2023-03-21 20:23:08,939 - nopcommerce - INFO - ----Launch browser----
+2023-03-21 20:23:08,941 - nopcommerce - INFO - ----Launch URL----
+2023-03-21 20:23:10,036 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-21 20:23:10,173 - nopcommerce - INFO - ----Start login----
+2023-03-21 20:23:11,357 - nopcommerce - INFO - ----Login  Succesful----
+2023-03-21 20:23:11,359 - nopcommerce - INFO - ----Logout  App----
+2023-03-21 20:23:14,208 - nopcommerce - INFO - ----Launch browser----
+2023-03-21 20:23:14,211 - nopcommerce - INFO - ----Launch URL----
+2023-03-21 20:23:15,603 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-21 20:23:15,746 - nopcommerce - INFO - ----Start login----
+2023-03-21 20:23:17,738 - nopcommerce - INFO - ----Login  Succesful----
+2023-03-21 20:23:17,739 - nopcommerce - INFO - ----Logout  App----
+2023-03-21 20:23:20,346 - nopcommerce - INFO - ----Launch browser----
+2023-03-21 20:23:20,348 - nopcommerce - INFO - ----Launch URL----
+2023-03-21 20:23:21,273 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-21 20:23:21,425 - nopcommerce - INFO - ----Start login----
+2023-03-21 20:34:58,002 - nopcommerce - INFO - ----Launch browser----
+2023-03-21 20:34:58,038 - nopcommerce - INFO - ----Launch URL----
+2023-03-21 20:34:58,833 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-21 20:34:59,039 - nopcommerce - INFO - ----Start login----
+2023-03-22 15:36:43,904 - nopcommerce - INFO - ----Launch browser----
+2023-03-22 15:36:43,941 - nopcommerce - INFO - ----Launch URL----
+2023-03-22 15:36:44,716 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-22 15:36:44,962 - nopcommerce - INFO - ----Start login----
+2023-03-22 15:50:08,659 - nopcommerce - INFO - ----Launch browser----
+2023-03-22 15:50:08,685 - nopcommerce - INFO - ----Launch URL----
+2023-03-22 15:50:09,766 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-22 15:50:09,977 - nopcommerce - INFO - ----Start login----
+2023-03-23 12:17:11,846 - nopcommerce - INFO - ----Launch browser----
+2023-03-23 12:17:11,883 - nopcommerce - INFO - ----Launch URL----
+2023-03-23 12:17:13,498 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-23 12:17:13,707 - nopcommerce - INFO - ----Start login----
+2023-03-23 12:35:28,577 - nopcommerce - INFO - ----Launch browser----
+2023-03-23 12:35:28,607 - nopcommerce - INFO - ----Launch URL----
+2023-03-23 12:35:29,405 - nopcommerce - INFO - ----Providing login credentialsr----
+2023-03-23 12:35:29,624 - nopcommerce - INFO - ----Start login----
